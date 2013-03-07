@@ -19,10 +19,10 @@
 define('DB_NAME', 'wp-qceleven');
 
 /** MySQL database username */
-define('DB_USER', 'wp-root');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password-qc11');
+define('DB_PASSWORD', 'svetlio1');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

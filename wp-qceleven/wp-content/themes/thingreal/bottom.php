@@ -55,7 +55,7 @@ if ($SMTheme->get( 'social', 'showsocial')) {
 					Warning! Your site will not be able to work if these links are edited or deleted.
 					You can buy this theme without footer links online at http://smthemes.com/buy/thingreal/
 				*/ ?>
-				<div class='smthemes'>Designed by <a href='http://servidoresdedicadosenmexico.com' target='_blank'>servidores dedicados en mexico</a>, thanks to: <a href='http://www.hcginjections.co/hcg-injections-diet.html' target='_blank'>hcg injections diet</a>, <a href='http://www.thegrizasonline.com/write-for-us-quest-post' target='_blank'>Write for Us</a> and <a href='http://www.altweb.pl/' target='_blank'>pozycjonowanie</a></div>
+				<div class='smthemes'>Designed by <a href='http://servidoresdedicadosenmexico.com' target='_blank'>servidores dedicados en mexico</a>, Implemented by: <a href='http://www.skconsultllc.com' target='_blank'>SK Consult LLC - Software Team</a>
 			</div>
 		</div>
 		<?php wp_footer(); ?>
